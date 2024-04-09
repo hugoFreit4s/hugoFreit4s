@@ -1,6 +1,8 @@
+<div align = "center">
 <strong>(PT-BR) Olá, eu sou o Hugo, bem vindo ao meu perfil ツ</strong>
 <br><strong> - 💼 Hoje trabalho com Análise de Dados </strong>
 <br><strong> - 👨‍💻 Atualmente estudando JavaScript / React </strong>
+<br><br>
 <div>
   
 ![GitHub stats - Hugo](https://github-readme-stats.vercel.app/api?locale=pt-br&username=hugoFreit4s&show_icons=true&theme=onedark)
@@ -33,7 +35,9 @@
 <br><br><br><br><br><br><br><br>
 
 <strong>(EN) Hi, my name is Hugo, welcome to my Github Profile ツ</strong>
-
+<br><strong> - 💼 Working with Data Analysis right now</strong>
+<br><strong> - 👨‍💻 Studying JavaScript / React </strong>
+<br><br>
 <div>
 
   ![GitHub stats - Hugo](https://github-readme-stats.vercel.app/api?username=hugoFreit4s&show_icons=true&theme=onedark)
@@ -69,5 +73,6 @@
 
 <br><br><br><br><br><br><br><br>
 
-![Snake animation](https://github.com/hugoFreit4s/hugoFreit4s/blob/output/github-contribuition-grid-snake.svg)
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=hugoFreit4s&repo=hugoFreit4s&theme=onedark)](https://github.com/hugoFreit4s/hugoFreit4s)
+
+</div>
