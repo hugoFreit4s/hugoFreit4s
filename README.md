@@ -68,3 +68,6 @@
 </div>
 
 <br><br><br><br><br><br><br><br>
+
+![Snake animation](https://github.com/hugoFreit4s/hugoFreit4s/blob/output/github-contribuition-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=hugoFreit4s&repo=hugoFreit4s&theme=onedark)](https://github.com/hugoFreit4s/hugoFreit4s)
