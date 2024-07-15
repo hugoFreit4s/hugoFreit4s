@@ -1,5 +1,5 @@
 <div align = "center">
-<h1><strong>(PT-BR)</strong> Olá, eu sou o Hugo, bem vindo ao meu perfil ツ</h1>
+<h1>(PT-BR) Olá, eu sou o Hugo, bem vindo ao meu perfil ツ</h1>
 <br><strong> - 💼 Hoje trabalho com Análise de Dados </strong>
 <br><strong> - 👨‍💻 Atualmente estudando JavaScript / React </strong>
 <br><br>
@@ -29,7 +29,7 @@
 
 <br><br><br><br>
 
-<h1><strong>(EN)</strong> Hi, my name is Hugo, welcome to my Github Profile ツ</h1>
+<h1>(EN) Hi, my name is Hugo, welcome to my Github Profile ツ</h1>
 <br><strong> - 💼 Working with Data Analysis right now</strong>
 <br><strong> - 👨‍💻 Studying JavaScript / React </strong>
 <br><br>
@@ -62,7 +62,5 @@
 </div>
 
 <br><br><br><br>
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=hugoFreit4s&repo=hugoFreit4s&theme=onedark)](https://github.com/hugoFreit4s/hugoFreit4s)
 
 </div>
