@@ -3,13 +3,6 @@
 <br><strong> - 💼 Hoje trabalho com Análise de Dados </strong>
 <br><strong> - 👨‍💻 Atualmente estudando JavaScript / React </strong>
 <br><br>
-<div>
-  
-![GitHub stats - Hugo](https://github-readme-stats.vercel.app/api?locale=pt-br&username=hugoFreit4s&show_icons=true&theme=onedark)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoFreit4s&theme=onedark&locale=pt-br)](https://github.com/hugoFreit4s/github-readme-stats)
-</div>
-
 <div style="display: inline_block"><br>
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,14 +26,6 @@
 <br><strong> - 💼 Working with Data Analysis right now</strong>
 <br><strong> - 👨‍💻 Studying JavaScript / React </strong>
 <br><br>
-<div>
-
-  ![GitHub stats - Hugo](https://github-readme-stats.vercel.app/api?username=hugoFreit4s&show_icons=true&theme=onedark)
-  <br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoFreit4s&theme=onedark)](https://github.com/hugoFreit4s/github-readme-stats) 
-
-</div>
-
 <div style="display: inline_block"><br>
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
