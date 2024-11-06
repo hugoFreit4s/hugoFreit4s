@@ -16,7 +16,7 @@
     <p>📊 <strong>Currently working with Data Analysis...</strong></p>
     <p>❗ <strong>Focusing on becoming a full-stack developer</strong></p>
     <p>📖 <strong>Studying Java ☕ and React ⚛️</strong></p>
-    <p>🎓 <strong>Currently studying my 5th semester in Information Systems</strong></p>
+    <p>🎓 <strong>Currently studying my 4th semester in Information Systems</strong></p>
   </div>
 
   <h3>My Streak</h3>
