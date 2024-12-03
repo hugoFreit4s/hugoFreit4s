@@ -19,12 +19,6 @@
     <p>📖 <strong>Studying Java ☕ and React ⚛️</strong></p>
     <p>🎓 <strong>Currently studying my 4th semester in Information Systems</strong></p>
   </div>
-
-  <p>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=hugoFreit4s&theme=radical" alt="GitHub Streak" />
-    </a>
-  </p>
   
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugoFreit4s&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
