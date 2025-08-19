@@ -19,8 +19,4 @@
     <p>📖 <strong>Studying Java ☕ and React ⚛️</strong></p>
     <p>🎓 <strong>Currently studying my 4th semester in Information Systems</strong></p>
   </div>
-  
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugoFreit4s&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </p>
 </div>
