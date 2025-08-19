@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Welcome to my GitHub Profile!</h1>
-
-  <img src="https://komarev.com/ghpvc/?username=hugoFreit4s&color=blueviolet" alt="Profile Views" />
-
+  
   <h3>Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
